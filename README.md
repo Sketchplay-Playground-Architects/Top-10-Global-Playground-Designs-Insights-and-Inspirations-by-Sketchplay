@@ -1,5 +1,7 @@
 # Top 10 Global Playground Designs: Insights and Inspirations by Sketchplay
 
+![Top 10 Playground Designs](https://i.imgur.com/MCb6xYE.jpg)
+
 ## Overview
 
 This repository showcases a curated list of the top ten playground designs from around the world. It provides insights into what makes these playgrounds exceptional and why they stand out as innovative examples in the field of playground design.
@@ -24,6 +26,11 @@ This repository is licensed under the MIT License. See [LICENSE](LICENSE) for mo
 ## Contributing
 
 If you would like to contribute to this repository, please fork it and submit a pull request.
+
+## Contact
+
+For more information, please visit [Sketchplay Playground Architects](https://www.sketchplay.co.uk) or contact us at info@sketchplay.co.uk.
+
 
 ## Contact
 
